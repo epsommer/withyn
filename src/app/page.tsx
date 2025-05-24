@@ -344,7 +344,7 @@ export default function Home() {
                   Ater formalizing my training through The Interior Design
                   Institute, I combined my business acumen with my lifelong
                   passion for design to offer clients a seamless and inspired
-                  experience. Whether you1re redesigning a single room or
+                  experience. Whether you&apos;re redesigning a single room or
                   embarking on a full transformation, I&apos;m committed to
                   delivering spaces that reflect your style, elevate your
                 </p>
