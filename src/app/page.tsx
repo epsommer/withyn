@@ -333,7 +333,7 @@ export default function Home() {
                   About Kiki
                 </h2>
                 <p className="text-muted-foreground mb-4">
-                  Kiki Plytas Interiors, my mission is to create spaces that not
+                  At Withyn by Kiki, my mission is to create spaces that not
                   only look beautiful but feel like home. With years of hands-on
                   experience helping friends and family bring their visions to
                   life-from complete renovations to thoughtful styling
