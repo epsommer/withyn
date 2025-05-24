@@ -406,7 +406,7 @@ export default function Home() {
                 },
                 {
                   name: "Cozy Contemporary",
-                  image: "/vision-board/cozy-contemporary/Firefly_modern cozy, contemporary interior design concept for a studio loft bedroom with soft 772965 (1).jpg",
+                  image: "/vision-board/cozy-contemporary/Firefly_modern cozy contemporary interior home design 684734.jpg",
                 },
                 {
                   name: "Luxe Traditional",
@@ -414,7 +414,7 @@ export default function Home() {
                 },
                 {
                   name: "Scandinavian Simplicity",
-                  image: "/vision-board/scandinavian-simplicity/Firefly_modern scandinavian, contemporary minimalist interior design concept for a studio lof 130254.jpg",
+                  image: "/vision-board/scandinavian-simplicity/Firefly_modern Scandinavian, contemporary simplistic minimalist interior design concept for a 772965.jpg",
                 },
                 {
                   name: "Bohemian Elegance",
@@ -422,7 +422,7 @@ export default function Home() {
                 },
                 {
                   name: "Urban Industrial",
-                  image: "/vision-board/urban-industrial/Firefly_urban industrial interior design concept of a bedroom 684734.jpg",
+                  image: "/vision-board/urban-industrial/Firefly_bright urban industrial interior design concept for a studio loft 130254.jpg",
                 },
               ].map((style, index) => (
                 <div
