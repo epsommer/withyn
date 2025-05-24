@@ -418,7 +418,7 @@ export default function Home() {
                 },
                 {
                   name: "Bohemian Elegance",
-                  image: "/placeholder.svg?height=600&width=800",
+                  image: "/vision-board/bohemian-elegance/Firefly_bohemian elegance interior design concept of a bedroom 772965.jpg",
                 },
                 {
                   name: "Urban Industrial",
