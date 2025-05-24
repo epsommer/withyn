@@ -320,7 +320,7 @@ export default function Home() {
               <div className="relative w-full max-w-md mx-auto">
                 <div className="aspect-square relative overflow-hidden rounded-full">
                   <Image
-                    src="/kiki_plytas_headshot_01.jpg"
+                    src="/headshots/kiki_plytas_headshot_01.jpg"
                     alt="Kiki Plytas"
                     fill
                     className="object-cover object-left-top"
