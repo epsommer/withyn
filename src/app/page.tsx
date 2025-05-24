@@ -347,6 +347,7 @@ export default function Home() {
                   experience. Whether you&apos;re redesigning a single room or
                   embarking on a full transformation, I&apos;m committed to
                   delivering spaces that reflect your style, elevate your
+                  everyday, and feel effortlessly cohesive.
                 </p>
                 <p className="text-muted-foreground mb-4">
                   My passion for creating beautiful, functional spaces drives me
