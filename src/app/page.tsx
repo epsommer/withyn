@@ -402,19 +402,19 @@ export default function Home() {
               {[
                 {
                   name: "Modern Minimalist",
-                  image: "/placeholder.svg?height=600&width=800",
+                  image: "/vision-board/modern-minimalist/Firefly_modern minimal style interior design example for a chair with a lamp. Use dark stone 409019.jpg",
                 },
                 {
                   name: "Cozy Contemporary",
-                  image: "/placeholder.svg?height=600&width=800",
+                  image: "/vision-board/cozy-contemporary/Firefly_modern cozy, contemporary interior design concept for a studio loft bedroom with soft 772965 (1).jpg",
                 },
                 {
                   name: "Luxe Traditional",
-                  image: "/placeholder.svg?height=600&width=800",
+                  image: "withyn/public/vision-board/luxe-traditional/Firefly_modern, luxe traditional interior design concept for a studio loft kitchen with luxur 772965.jpg",
                 },
                 {
                   name: "Scandinavian Simplicity",
-                  image: "/placeholder.svg?height=600&width=800",
+                  image: "withyn/public/vision-board/scandinavian-simplicity/Firefly_modern scandinavian, contemporary minimalist interior design concept for a studio lof 130254.jpg",
                 },
                 {
                   name: "Bohemian Elegance",
@@ -422,7 +422,7 @@ export default function Home() {
                 },
                 {
                   name: "Urban Industrial",
-                  image: "/placeholder.svg?height=600&width=800",
+                  image: "withyn/public/vision-board/urban-industrial/Firefly_urban industrial interior design concept of a bedroom 684734.jpg",
                 },
               ].map((style, index) => (
                 <div
