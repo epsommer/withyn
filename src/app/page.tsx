@@ -410,11 +410,11 @@ export default function Home() {
                 },
                 {
                   name: "Luxe Traditional",
-                  image: "withyn/public/vision-board/luxe-traditional/Firefly_modern, luxe traditional interior design concept for a studio loft kitchen with luxur 772965.jpg",
+                  image: "/vision-board/luxe-traditional/Firefly_modern, luxe traditional interior design concept for a studio loft kitchen with luxur 772965.jpg",
                 },
                 {
                   name: "Scandinavian Simplicity",
-                  image: "withyn/public/vision-board/scandinavian-simplicity/Firefly_modern scandinavian, contemporary minimalist interior design concept for a studio lof 130254.jpg",
+                  image: "/vision-board/scandinavian-simplicity/Firefly_modern scandinavian, contemporary minimalist interior design concept for a studio lof 130254.jpg",
                 },
                 {
                   name: "Bohemian Elegance",
@@ -422,7 +422,7 @@ export default function Home() {
                 },
                 {
                   name: "Urban Industrial",
-                  image: "withyn/public/vision-board/urban-industrial/Firefly_urban industrial interior design concept of a bedroom 684734.jpg",
+                  image: "/vision-board/urban-industrial/Firefly_urban industrial interior design concept of a bedroom 684734.jpg",
                 },
               ].map((style, index) => (
                 <div
